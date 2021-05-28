@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering, Web Development, and BI
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Kirkwallace22@outlook.com
+- 📫 How to reach me 
 
 <!---
 KirkWallace335/KirkWallace335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
